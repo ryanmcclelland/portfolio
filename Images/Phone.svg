@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="150" cy="150" r="138.5"></circle>
+        <circle id="path-3" cx="122.75" cy="168.75" r="20.75"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F4D6BC" xlink:href="#path-1"></use>
+            <ellipse id="Oval" fill="#949494" mask="url(#mask-2)" cx="151" cy="265" rx="27" ry="3"></ellipse>
+            <path d="M102,51.5 L199,51.5 C205.075132,51.5 210,56.4248678 210,62.5 L210,111.75 L210,233.5 C210,239.575132 205.075132,244.5 199,244.5 L102,244.5 C95.9248678,244.5 91,239.575132 91,233.5 L91,62.5 C91,56.4248678 95.9248678,51.5 102,51.5 Z" id="Rectangle" fill="#F9F8F4" mask="url(#mask-2)"></path>
+            <circle id="Oval" fill="#F4D6BC" mask="url(#mask-2)" cx="152" cy="232.5" r="8.5"></circle>
+            <rect id="Rectangle-2" fill="#F4D6BC" mask="url(#mask-2)" x="141" y="65" width="19.5" height="3.5" rx="1.75"></rect>
+            <path d="M82.25,218.75 L218.75,218.75" id="Line" stroke="#F4D6BC" stroke-width="2" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M81.25,75.25 L217.75,75.25" id="Line" stroke="#F4D6BC" stroke-width="2" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" x="104.5" y="93.5" width="31.5" height="6" rx="3"></rect>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" transform="translate(188.328947, 122.288550) rotate(-109.000000) translate(-188.328947, -122.288550) " x="178.578947" y="120.53855" width="19.5" height="3.5" rx="1.75"></rect>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" transform="translate(171.931593, 113.779272) rotate(-64.000000) translate(-171.931593, -113.779272) " x="158.566883" y="112.029272" width="26.7294209" height="3.5" rx="1.75"></rect>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" transform="translate(176.162708, 119.096899) rotate(-27.000000) translate(-176.162708, -119.096899) " x="163.965014" y="117.346899" width="24.3953883" height="3.5" rx="1.75"></rect>
+            <circle id="Oval-2" fill="#AC7265" mask="url(#mask-2)" transform="translate(191.297151, 130.797151) rotate(-6.000000) translate(-191.297151, -130.797151) " cx="191.297151" cy="130.797151" r="3"></circle>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" transform="translate(154.915940, 104.660832) rotate(-98.000000) translate(-154.915940, -104.660832) " x="146.41594" y="102.910832" width="17" height="3.5" rx="1.75"></rect>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" transform="translate(166.683740, 106.761859) rotate(-21.000000) translate(-166.683740, -106.761859) " x="153.769377" y="105.011859" width="25.8287248" height="3.5" rx="1.75"></rect>
+            <circle id="Oval-2" fill="#AC7265" mask="url(#mask-2)" transform="translate(153.797151, 96.797151) rotate(-6.000000) translate(-153.797151, -96.797151) " cx="153.797151" cy="96.7971511" r="3"></circle>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" x="104.5" y="103.5" width="31.5" height="6" rx="3"></rect>
+            <rect id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)" x="104.5" y="114" width="31.5" height="6" rx="3"></rect>
+            <path d="M169.769231,176.5 L169.769231,194.5 C169.769231,196.156854 168.141958,197.5 166.134615,197.5 C164.127273,197.5 162.5,196.156854 162.5,194.5 L162.5,176.5 C162.5,174.843146 164.127273,173.5 166.134615,173.5 C168.141958,173.5 169.769231,174.843146 169.769231,176.5 Z" id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)"></path>
+            <path d="M181.769231,167 L181.769231,194.5 C181.769231,196.156854 180.141958,197.5 178.134615,197.5 C176.127273,197.5 174.5,196.156854 174.5,194.5 L174.5,167 C174.5,165.343146 176.127273,164 178.134615,164 C180.141958,164 181.769231,165.343146 181.769231,167 Z" id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)"></path>
+            <path d="M193.769231,155 L193.769231,194.5 C193.769231,196.156854 192.141958,197.5 190.134615,197.5 C188.127273,197.5 186.5,196.156854 186.5,194.5 L186.5,155 C186.5,153.343146 188.127273,152 190.134615,152 C192.141958,152 193.769231,153.343146 193.769231,155 Z" id="Rectangle-3" fill="#D79B8E" mask="url(#mask-2)"></path>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="#D79B8E" xlink:href="#path-3"></use>
+            <rect id="Rectangle-4" fill="#AC7265" mask="url(#mask-4)" x="123" y="146.5" width="22.5" height="22.5"></rect>
+        </g>
+    </g>
+</svg>

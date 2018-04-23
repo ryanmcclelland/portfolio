@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="150" cy="150" r="138.5"></circle>
+        <rect id="path-3" x="0.434939507" y="0.382247632" width="104" height="102.5" rx="11"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F0BCB0" xlink:href="#path-1"></use>
+            <ellipse id="Oval-2" fill="#949494" mask="url(#mask-2)" cx="89.5" cy="249.25" rx="26" ry="5.25"></ellipse>
+            <ellipse id="Oval-2" fill="#949494" mask="url(#mask-2)" cx="210" cy="249.25" rx="26" ry="5.25"></ellipse>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(37.500000, 99.000000)">
+                    <rect id="Rectangle" fill="#002632" fill-rule="evenodd" x="0" y="0" width="104" height="102.5" rx="11"></rect>
+                    <text id="Ps" fill="none" font-family="MyriadPro-Semibold, Myriad Pro" font-size="72" font-weight="500" letter-spacing="-3.8499999">
+                        <tspan x="19" y="73" fill="#01D2FF">P</tspan>
+                        <tspan x="55.3980001" y="73" fill="#01D2FF">s</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(158.000000, 98.500000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" stroke="none" fill="#FFE37F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(38.571474, 28.242959) rotate(-43.000000) translate(-38.571474, -28.242959) " x="19.1331378" y="26.3752404" width="38.8766728" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" x="6.10634096" y="40.5677724" width="92.3436123" height="3.73543689" rx="1.86771845"></rect>
+                    <path d="M25.3650123,14.6271359 C32.8202547,14.2955495 38.192873,14.1297563 41.4828672,14.1297563 C44.8045475,14.1297563 50.4885287,14.4172748 58.534811,14.9923117 L58.5348094,14.9923341 C59.4593087,15.0584046 60.1607792,15.8524014 60.1123821,16.7779942 L60.1123821,16.7779942 C60.0639758,17.703764 59.2859782,18.4219357 58.3592992,18.3962699 C50.4414701,18.1769619 44.7473642,18.0673138 41.2769817,18.0673138 C37.859313,18.0673138 32.5838506,18.1736562 25.4505946,18.3863409 L25.4505954,18.3863691 C24.4504056,18.4161907 23.6154163,17.6295518 23.5855947,16.629362 C23.5850582,16.611368 23.5847899,16.5933671 23.5847899,16.5753652 L23.584814,16.4882719 C23.584814,15.4915692 24.369294,14.6714224 25.3650123,14.6271359 Z" id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(41.849769, 16.263394) rotate(-3.000000) translate(-41.849769, -16.263394) "></path>
+                    <path d="M46.4749713,14.6838068 C53.9375581,14.3128644 59.3145991,14.1273933 62.6060942,14.1273933 C63.9421586,14.1273933 65.6520019,14.1579527 67.735624,14.2190715 C69.5990901,14.2737324 73.4754614,14.4319575 79.3647378,14.6937467 L79.3647371,14.6937624 C80.3604791,14.7380249 81.14499,15.5581835 81.14499,16.5549088 L81.14499,16.6410024 C81.14499,17.6235288 80.3484951,18.4200238 79.3659687,18.4200238 C79.3376103,18.4200238 79.3092559,18.4193457 79.28093,18.4179902 C71.4754256,18.0444792 65.8521309,17.8577109 62.4110448,17.8577109 C58.9926322,17.8577109 53.7115424,18.0420261 46.5677754,18.4106565 L46.5677748,18.4106449 C45.5904283,18.4610776 44.7572486,17.7096655 44.7068159,16.732319 C44.7052465,16.7019054 44.7044614,16.6714565 44.7044614,16.6410024 L44.7044551,16.5445158 C44.7044551,15.5515573 45.4832372,14.7331029 46.4749713,14.6838068 Z" id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(62.924726, 16.273815) scale(-1, 1) rotate(-3.000000) translate(-62.924726, -16.273815) "></path>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(16.644187, 29.397994) rotate(-55.000000) translate(-16.644187, -29.397994) " x="0.211319373" y="27.5302755" width="32.8657362" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(37.764554, 68.544777) rotate(61.000000) translate(-37.764554, -68.544777) " x="7.92487544" y="66.6770588" width="59.6793564" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(67.311199, 67.852032) scale(-1, 1) rotate(62.000000) translate(-67.311199, -67.852032) " x="37.4715203" y="65.9843139" width="59.6793564" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(66.730065, 28.658007) scale(-1, 1) rotate(-43.000000) translate(-66.730065, -28.658007) " x="47.2917281" y="26.7902889" width="38.8766728" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(24.624926, 29.039408) rotate(-86.000000) translate(-24.624926, -29.039408) " x="11.3787627" y="27.17169" width="26.4923273" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(80.528010, 29.039408) scale(-1, 1) rotate(-86.000000) translate(-80.528010, -29.039408) " x="67.2818464" y="27.17169" width="26.4923273" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(88.065012, 29.533950) scale(-1, 1) rotate(-56.000000) translate(-88.065012, -29.533950) " x="71.6321442" y="27.666232" width="32.8657362" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(30.010902, 68.776200) rotate(50.000000) translate(-30.010902, -68.776200) " x="-6.24567723" y="66.9084812" width="72.513158" height="3.73543689" rx="1.86771845"></rect>
+                    <rect id="Rectangle-6" stroke="none" fill="#DC940F" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(74.241842, 69.098758) scale(-1, 1) rotate(50.000000) translate(-74.241842, -69.098758) " x="38.1057226" y="67.23104" width="72.272238" height="3.73543689" rx="1.86771845"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="150" cy="150" r="138.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#E7F4BC" xlink:href="#path-1"></use>
+            <rect id="Rectangle-5" fill="#AD7070" mask="url(#mask-2)" transform="translate(148.516497, 150.000000) rotate(11.000000) translate(-148.516497, -150.000000) " x="138.766497" y="87.3948181" width="19.5" height="125.210364"></rect>
+            <rect id="Rectangle-5" fill="#AD7070" mask="url(#mask-2)" transform="translate(90.750000, 133.934664) rotate(45.000000) translate(-90.750000, -133.934664) " x="81" y="101.684664" width="19.5" height="64.5"></rect>
+            <rect id="Rectangle-5" fill="#AD7070" mask="url(#mask-2)" transform="translate(90.690209, 165.811437) scale(1, -1) rotate(45.000000) translate(-90.690209, -165.811437) " x="80.9402089" y="133.561437" width="19.5" height="64.5"></rect>
+            <rect id="Rectangle-5" fill="#AD7070" mask="url(#mask-2)" transform="translate(209.250000, 133.934664) scale(-1, 1) rotate(45.000000) translate(-209.250000, -133.934664) " x="199.5" y="101.684664" width="19.5" height="64.5"></rect>
+            <rect id="Rectangle-5" fill="#AD7070" mask="url(#mask-2)" transform="translate(209.309791, 165.811437) scale(-1, -1) rotate(45.000000) translate(-209.309791, -165.811437) " x="199.559791" y="133.561437" width="19.5" height="64.5"></rect>
+            <ellipse id="Oval" fill="#949494" mask="url(#mask-2)" cx="150" cy="258.5" rx="34" ry="4"></ellipse>
+        </g>
+    </g>
+</svg>

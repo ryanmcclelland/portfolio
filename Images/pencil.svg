@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="150" cy="150" r="138.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#C8E6F6" xlink:href="#path-1"></use>
+            <rect id="Rectangle" fill="#FFD362" mask="url(#mask-2)" x="131" y="8.5" width="38.5" height="162"></rect>
+            <rect id="Rectangle" fill="#F4CA5D" mask="url(#mask-2)" x="131" y="8.5" width="19.25" height="162"></rect>
+            <polyline id="Triangle" fill="#EBCDB2" mask="url(#mask-2)" transform="translate(150.250000, 189.750000) scale(1, -1) translate(-150.250000, -189.750000) " points="169.5 209 131 209 133.191644 204.616712 150.25 170.5"></polyline>
+            <polygon id="Triangle-2" fill="#DFC4AB" mask="url(#mask-2)" points="150.267583 208.75 150.267583 170.481134 131 170.481134"></polygon>
+            <polygon id="Triangle-3" fill="#E77550" mask="url(#mask-2)" points="150.257938 209.002624 154.75 200.002624 145.75 200.002624"></polygon>
+            <polygon id="Triangle-2" fill="#D87554" mask="url(#mask-2)" points="150.259623 209.004947 150.259623 200 145.75 200"></polygon>
+            <ellipse id="Oval" fill="#949494" mask="url(#mask-2)" cx="151.5" cy="263.25" rx="9.5" ry="2.25"></ellipse>
+        </g>
+    </g>
+</svg>
