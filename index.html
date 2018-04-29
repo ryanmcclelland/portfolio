@@ -1,53 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<header>
     <meta charset="utf-8"/>
-    <img src="Images/icon.svg" alt="My monogram" id="monogram" class="headimg"/>
-    <nav>
+   
+    
+    <!-----linking css----- -->
+    <link href='css/style.css' type='text/css' rel='stylesheet'/>
+    <nav class="icon">
+    <img id="icon"src="Images/icon.svg" alt="My monogram" id="monogram" class="headimg"/>
+    
+         <div class="align">
                 <ul>
                     <li><a href="#about">ABOUT</a></li>
                     <li><a href="#work">WORK</a></li>
                     <li><a href="#skills">SKILLS</a></li>
                     <li><a href="#contact">CONTACT</a></li>
                 </ul>
+        </div>
+        
             </nav>
     <title>Ryan McClelland</title>
-</head>
-<body>
-<article>
-    <section>
+
         <h1>Hey, I'm Ryan</h1>
         <h2>Illustrator & UI/UX Designer.</h2>
         <p>Hello and welcome to my website. My name is Ryan McClelland and I am an Illustrator and UI/UX designer from Armagh, Northern Ireland.</p>
-    </section>
     
+    </header>
+    <body>
+        <article>
+            <div class="about1">
+            <h2 id="about">About</h2>
+            <section class="about">
+             <img id="me" src="Images/me.png" alt="It's me!" id="me" class="aboutimg"/>   
+            <p class="aboutp">The name's Ryan. I'm currently a student at Ulster University, Belfast studying Interaction Design. I love illustration and UI/UX design, although I have skills in HTML and CSS also. I love to think, design and create. Coming up with solutions to problems is what I'm best at.</p>
+    </section>
+                </div>
     <section>
-        <h2 id="about">About</h2>
-        <p>The name's Ryan. I'm currently a student at Ulster University, Belfast studying Interaction Design. I love illustration and UI/UX design, although I have skills in HTML and CSS also. I love to think, design and create. Coming up with solutions to problems is what I'm best at.</p><img src="Images/me.svg" alt="It's me!" id="me" class="aboutimg"/>
-    </section>
-    
+        <h2 id="ima">I'm a...</h2>
+            <h4>Thinker</h4>
+        <h4>Maker</h4>
+        <h4 id="doer">Do-er</h4>
+            </section>
     <section>
         <h2 id="work">Work</h2>
+        <div class="layout">
+        <img id="branding" src="Images/branding.svg" alt="My monogram, visual marque and wordmark"/>
         <h3>BRAND IDENTITY</h3>
         <p>Monogram, Wordmark & Visual Marque</p>
+        </div>
+        <div class="layout1">
+        <img id="app" src="Images/travelapp1.png" alt="My monogram, visual marque and wordmark"/>
         <h3>TRAVEL APP</h3>
         <p>Illustration/UI & UX Design</p>
-        <H3>DESIGNER ESSAY</H3>
+        </div>
+        <div class="layout2">
+        <img id="website" src="Images/website.svg" alt="My monogram, visual marque and wordmark"/>
+        <h3>DESIGNER ESSAY</h3>
         <p>Web Design</p>
+        </div>
     </section>
 
-    <section>
-        <h2 id="skills">My Skills</h2>
-        <h3><img src="Images/pencil.svg" alt="Illustration" id="illustration" class="skillimg"/>ILLUSTRATION </h3>
-        <h3><img src="Images/phone.svg" alt="Illustration" id="illustration" class="skillimg"/>UI/UX DESIGN</h3>
-        <h3><img src="Images/html.svg" alt="Illustration" id="illustration" class="skillimg"/>HTML & CSS</h3>
-        <h3><img src="Images/apps.svg" alt="Illustration" id="illustration" class="skillimg"/>PHOTOSHOP & CSS</h3>
+            <h2 id="skills">My Skills</h2>
+    <section class="myskills">
+        <img src="Images/pencil.svg" alt="Illustration" id="illustration" class="skillimg"/><h3>ILLUSTRATION </h3>
+        <img src="Images/Phone.svg" alt="Illustration" id="illustration" class="skillimg"/><h3>UI/UX DESIGN</h3>
+        <img src="Images/html.svg" alt="Illustration" id="illustration" class="skillimg"/><h3>HTML & CSS</h3>
+        <img src="Images/apps.svg" alt="Illustration" id="illustration" class="skillimg"/><h3>PHOTOSHOP & CSS</h3>
     
     </section>
     
-    <section>
+    <section class="contactme">
         <h2 id="contact">Contact Me</h2>
         <p>If you have any questions or advice for me, please get in touch!</p>
+        <div class="social">
+		<ul>
+            <li><a href="http://saysryan.tumblr.com/"><img src="images/tumblr-symbol-.svg" alt="Follow me on Tumblr" /></a></li>
+            <li><a href="https://twitter.com/RyanMcClelland_/"><img src="images/twitter-logo-silhouette.svg" alt="Follow me on Twitter" /></a></li>
+            <li><a href="https://www.instagram.com/ryanmcdesign/"><img src="images/instagram-social-network-logo-of-photo-camera.svg" alt="Follow me on Instagram" /></a></li>
+            <li><a href="https://github.com/ryanmcclelland"><img src="images/github-logo.svg" alt="Follow me on GitHub" /></a></li>
+        </ul>
+	</div>
     </section>
 </article>
 
