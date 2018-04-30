@@ -226,7 +226,10 @@ h3 {
     margin-right: auto;
     width: 70%;
      padding-top: 3em;
-    
+}
+
+#website:hover {
+    width: 73%;
 }
 
 .layout1 p{
@@ -249,13 +252,14 @@ h3 {
     padding-top: 3em;
 }
 
+#branding:hover {
+    width: 68%;
+}
+
+}
 .layout2 p{
     text-align: center;
-    margin-bottom: 0em;
-    padding-bottom: 5em;
-    padding-top: .5em;
-    margin-left: 0em;
-    color: #fff;
+    
 }
 
 .layout2 {
@@ -267,9 +271,11 @@ h3 {
     margin-right: auto;
     width: 65%;
      padding-top: 3em;
-    
 }
 
+#app:hover {
+    width: 68%;
+}
 #work {
     background-color:#c35f5f;
     color: #fff;
@@ -328,11 +334,19 @@ h3 {
     
 .social ul{
     display: grid;
-    grid-template-columns:  25% 25% 25% 25%  25%;
+    grid-template-columns:  33% 33% 33%;
     padding-top: 2em;
-    padding-left: 
+    margin-left: 0em;
 }
 
 .social li {
     display:grid;
+}
+
+#fix {
+    text-align: center;
+    color: #fff;
+    margin-left: 0em;
+    padding-top: .5em;
+    padding-bottom: 3em;
 }
