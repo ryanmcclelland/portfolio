@@ -332,15 +332,12 @@ h3 {
         max-width: 20%;
     }
     
-.social ul{
+.social {
     display: grid;
     grid-template-columns:  33% 33% 33%;
     padding-top: 2em;
     margin-left: 0em;
-}
-
-.social li {
-    display:grid;
+    padding: 50px;
 }
 
 #fix {
