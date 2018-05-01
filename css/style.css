@@ -28,29 +28,30 @@ header h2 {
     font-size: 3.5em;
     color: #3B3738;
     text-align: left;
-    margin-left: 40px;
+    margin-left: 60px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 header h1 {
     font-style: bold;
     font-size: 8.5em;
     margin-top: 1.1em;
-    margin-left: 40px;
+    margin-left: 60px;
     color: #3B3738;
     text-align: left;
     line-height: 1em;
-    margin-bottom: 29px;
+    margin-bottom: 45px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
 
 header p {
-    margin-left: 40px;
-    margin-right: 600px;
-    margin-bottom: 18em;
+    margin-left: 60px;
+    margin-bottom: 20em;
+    display: grid;
+    grid-auto-columns: 50%
 }
 .kern {
     letter-spacing: -1.8px;
@@ -72,7 +73,10 @@ h2 {
 p, li, blockquote {
     margin-bottom: 1.5em;
     line-height: 1.5;
-     margin-left: 40px;
+}
+
+li {
+    margin-left: 30px;
 }
 
 p{
@@ -151,7 +155,7 @@ nav a:hover {
 #ima {
     margin-bottom: -0.1em;
     margin-top: 2em;
-    padding-left: 30px;
+    padding-left: 34px;
     text-align: left;
 }
 
@@ -180,7 +184,7 @@ h4 {
 }
 
 .align {
-    padding: 2em;
+    padding: 1.5em;
 }
 
 h3 {
@@ -241,8 +245,14 @@ h3 {
     color: #fff;
 }
 
+.layout a{
+    color: #fff;
+}
 .layout1 {
     background-color: #9DD6D6;
+}
+.layout1 a{
+    color: #fff;
 }
 #branding {
     display: block;
@@ -262,8 +272,17 @@ h3 {
     
 }
 
+.layout2 a{
+    color: #fff;
+    text-align: center;
+    padding-bottom: 2em;
+    margin-left: 0px;
+}
 .layout2 {
     background-color: #FFA27F;
+    padding-bottom: 2em;
+    text-align: center;
+    margin-left: 0em;
 }
 #app {
     display: block;
@@ -288,7 +307,7 @@ h3 {
 
 .myskills {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 50% 50%;
     margin-bottom: 5em;
 }
 
@@ -309,7 +328,7 @@ h3 {
 #skills {
     padding-top: 2em;
     margin-left: 0em;
-    margin-bottom: 1px;
+    margin-bottom: 1.2em;
 }
 
 .contactme {
@@ -328,22 +347,64 @@ h3 {
 }
 
 
+
 .social img {
-        max-width: 20%;
+        max-width: 15%;
     }
     
 .social {
     display: grid;
     grid-template-columns:  33% 33% 33%;
-    padding-top: 2em;
-    margin-left: 0em;
-    padding: 50px;
+    padding-top: 1em;
+    padding-bottom: 50px;
 }
 
-#fix {
+.hover:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=50);
+}
+
+.fix {
     text-align: center;
     color: #fff;
-    margin-left: 0em;
+    padding-top: .8em;
+    padding-bottom: 1em;
+}
+
+.item{
+  width:100%;
+  text-align:center;
+  display:block;
+  margin-bottom: 1px;
+  float:left;
+}
+
+.item img{
+    width: 65%;
+}
+
+#index-gallery{
+  display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 2em;
+}
+
+.item p{
+    font-size: 1.7em;
+    color: #c35f5f;
+    font-weight: 600;
+    letter-spacing: 1px;
     padding-top: .5em;
-    padding-bottom: 3em;
+}
+
+#email{
+    color: #D65F5C;
+    font-size: 2.24em;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+#email:hover{
+    opacity: 0.6;
+    filter: alpha(opacity=50);
 }
