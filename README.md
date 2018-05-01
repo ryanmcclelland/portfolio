@@ -5,6 +5,6 @@ Portfolio
 ======================================
 my portfolio website.
 
-- [The Markdown](https://ryanmcclelland.github.io/portfolio/index.html)
+- [The Markdown]
 
-- [The Website](https://ryanmcclelland.github.io/portfolio/blob/gh-pages/index.html)
+- [The Website](https://ryanmcclelland.github.io/portfolio/gh-pages/index.html)
